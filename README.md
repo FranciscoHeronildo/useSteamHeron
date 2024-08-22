@@ -1,8 +1,8 @@
-# useSteamHeron
+# useSteam
 
 Repository with some codes to use on my Steam
 
-## Curador:
+## Curator:
 
 **cutator-get-game-pending\*:**
 
@@ -14,4 +14,6 @@ Repository with some codes to use on my Steam
 6. Cole o código no _Console_ do Browser.
 7. O execute pressionando Enter.
 
-## Profile Customer:
+## Profile:
+
+<div align="center"><p>Copyright &copy; Francisco Heronildo</p></div>
